@@ -1,0 +1,15 @@
+{
+    "name": "makecode-minecraft-ca-026",
+    "description": "",
+    "version": "0.0.1",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "preferredEditor": "tsprj",
+    "supportedTargets": [
+        "minecraft"
+    ]
+}
